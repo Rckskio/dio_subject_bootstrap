@@ -1,0 +1,19 @@
+{
+  "name": "dio_subject_bootstrap",
+  "version": "1.0.0",
+  "description": "This repository is being used during the class about **Bootstrap** from the platform **Digital Innovation One**. As long I implement some code I will update this file to match best the description of this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rckskio/dio_subject_bootstrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rckskio/dio_subject_bootstrap/issues"
+  },
+  "homepage": "https://github.com/Rckskio/dio_subject_bootstrap#readme"
+}
